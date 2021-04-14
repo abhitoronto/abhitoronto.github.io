@@ -22,12 +22,14 @@ twitter: ''
 
 # email: abhinav95grover@gmail.com
 address:
+  street: ''
   city: Toronto
-  region: ON
+  region: ''
+  postcode: ''
   country: Canada
   country_code: CA
 contact_links:
-  - icon: email
+  - icon: comments
     icon_pack: fab
     name: Email Me
     link: 'https://mailhide.io/e/c7hJfhQl'
