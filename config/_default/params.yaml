@@ -24,13 +24,13 @@ twitter: ''
 address:
   street: ''
   city: Toronto
-  region: ''
-  postcode: ''
+  region: Ontario
+#   postcode: ''
   country: Canada
   country_code: CA
 contact_links:
-  - icon: comments
-    icon_pack: fab
+  - icon: envelope
+    icon_pack: fas
     name: Email Me
     link: 'https://mailhide.io/e/c7hJfhQl'
 #   - icon: skype
