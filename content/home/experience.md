@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,29 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Graduate Research Student - Robotics and AI
+    company: University of Toronto Robotics Institute
+    company_url: 'https://robotics.utoronto.ca/'
+    company_logo: 
+    location: Toronto
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        I am working as a researcher at STARS lab under the supervision of Dr. Jonathan Kelly. For my current project, I am learning to perceive in-hand object slip using low-cost tactile sensors. In course of my research career, I received the Vector Scholarship in Artificial Intelligence (VSAI) and the NSERC Canadian Graduate Scholarship for Masters (CGS-M).
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Software Engineer - Autonomous Driving
+    company: Nvidia Inc.
+    company_url: 'https://developer.nvidia.com/drive'
+    company_logo: 
+    location: New Jersey
+    date_start: '2018-01-10'
+    date_end: '2018-08-15'
+    description:  |2-
+      Worked in a team of 25 machine learning engineers, led by Dr. Urs Muller, creating an end-to-end autonomous driving solution. (Linux, C++, Git, Bash)
+      * Contributed to the re-architecture of Nvidia’s Driving Simulation application in order to enable simulation on the GPU cluster and standardize the benchmark testing of DriveNets across the company
+      * Developed a prototype of a model-predictive vehicle controller in C++ that runs on the DRIVE Xavier platform
+      * Contributed to Nvidia DriveWorks SDK which meant overcoming extensive quality checks designed for MISRA compliance
+
+       
+  - title: Systems Engineer - DRIVE platform
+    company: Nvidia Inc.
+    company_url: 'https://developer.nvidia.com/drive'
+    company_logo: 
+    location: Seatle
+    date_start: '2017-05-01'
+    date_end: '2017-08-30'
+    description:  |2-
+      Worked on Nvidia's DRIVE hardware stack, aiming to revolutionize the Automotive computing industry (C++, bash, python)
+      * Contributed to the Embedded PDK for the DRIVE automotive hardware products, that now serve giants like Tesla and Audi.
+      * Re-implemented the Tegra flashing software for the DRIVE computing platforms to meet strict Automotive standards and to gain MISRA compliance.
+      * Architected the incremental Tegra flashing functionality, reducing the average OS flash time to half.
 
 design:
-  columns: '2'
+  columns: '1'
 ---

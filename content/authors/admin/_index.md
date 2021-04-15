@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhinav Grover
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MASc Student and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Toronto Robotics Insitute
+  url: https://robotics.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research student at the University of Toronto, interested in robot manipulation and tactile sensing.
 
 # Interests to show in About widget
 interests:
+- Autonomous Robots
+- Robot Manipulation
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cricket, Tennis and Badminton
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MASc in Aerospace Engineering (Robotics)
+    institution: University of Toronto
+    year: 2021
+  - course: BASc in Mechatronics Engineering
+    institution: University of Waterloo
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: http://scholar.google.com/citations?user=Z7rq6coAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/abhitoronto
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/abhinavgrovereng/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/abhinav95grover
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,11 +66,15 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: True
 ---
+<div style="text-align: justify">
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a research student at University of Toronto, adviced by [Dr. Jonathan Kelly](https://starslab.ca/people/). I am broadly interested in the topic of [robot manipulation](https://en.wikipedia.org/wiki/Robotics#Manipulation) and my current research focuses on [tactile perception]({{<ref "/#featured">}}). I am a receipient of the [NSERC Canadian Graduate Scholarship](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and [Vector Scholarship in AI](https://vectorinstitute.ai/scholarship/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I graduated from University of Waterloo with a bachelors in [Mechatronics Engineering](https://uwaterloo.ca/future-students/programs/mechatronics-engineering) and an [option in AI](https://ugradcalendar.uwaterloo.ca/page/ENG-Artificial-Intelligence-Engineering-Option). I worked as a research assitant for [Dr. Krzysztof Czarnecki](https://gsd.uwaterloo.ca/kczarnec), [Dr. Mihaela Vlasea](https://msam.uwaterloo.ca/team/mihaela-vlasea/), and [Dr. James Tung](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/j6tung). For 12 months, I worked as an intern at [Nvidia US](https://developer.nvidia.com/drive) where I contributed to their self-driving infrastructure. Through various co-ops and internships, I graduated with over 2 years of [work experience]({{<ref "/#experience">}}).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Please checkout my [projects]({{<ref "/#projects">}}) and [publications]({{<ref "/#featured">}}) below.
+
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}CV{{< /staticref >}} \ {{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}résume{{< /staticref >}}.
+</div>
