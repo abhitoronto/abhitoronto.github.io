@@ -28,23 +28,25 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    tag: DL
+  - name: Reinforcement Learning
+    tag: RL
+  - name: Robotics
+    tag: robotics
+  - name: Computer Vision
+    tag: CV
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-
-  columns: '1'
 ---
