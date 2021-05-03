@@ -33,7 +33,7 @@ slides:
 ---
 Completed as part of a graduate course at the University of Toronto | Tensorflow, Python, OpenAI gym.
 
-- Conducted a failure mode analysis on the learned DDPG based policies used to control a dexterous hand with tactile sensors, in an attempt to understand the utility of tactile information.
-- The experiments were conducted using the OpenAI gym, Mujoco Simulator and Tensorflow.
-- A full report and video are available along with the code.
+- Conducted a failure mode analysis on learned DDPG-based policies used to control a dexterous hand with tactile sensors, in an attempt to understand the utility of tactile information.
+- The experiments were conducted using the OpenAI gym, Mujoco Simulator, and Tensorflow.
+- Video, a full report, and the corresponding code is available here.
 

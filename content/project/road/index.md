@@ -33,6 +33,6 @@ slides:
 Completed as part of a graduate course at the University of Toronto | PyTorch.
 
 - Implemented a Fully Connected Network based Road Segmentation pipeline on Audi’s A2D2 dataset using PyTorch and OpenCV.
-- Implemented the late and early fusion strategy published L. Caltagirone et. al. and achieved average precision of more than 90% on the new dataset.
-- A full report and video are available along with the code.
+- Implemented the late and early fusion strategy published by L. Caltagirone et. al. and achieved an average precision of over 90%.
+- Video, a full report, and the corresponding code is available here.
 
