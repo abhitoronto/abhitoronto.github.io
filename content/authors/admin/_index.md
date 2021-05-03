@@ -60,7 +60,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: uploads/Abhinav_Grover_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,5 +76,5 @@ I graduated from University of Waterloo with a bachelors in [Mechatronics Engine
 
 Please checkout my [projects]({{<ref "/#projects">}}) and [publications]({{<ref "/#featured">}}) below.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}CV{{< /staticref >}} \ {{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}résume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}CV{{< /staticref >}} \ {{< staticref "uploads/Abhinav_Grover_resume.pdf" "newtab" >}}résume{{< /staticref >}}.
 </div>
