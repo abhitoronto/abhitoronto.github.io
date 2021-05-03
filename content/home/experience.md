@@ -25,8 +25,8 @@ experience:
   - title: Graduate Research Student - Robotics and AI
     company: University of Toronto Robotics Institute
     company_url: 'https://robotics.utoronto.ca/'
-    company_logo: 
-    location: Toronto
+    company_logo:
+    location: Toronto, Canada
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
@@ -36,7 +36,7 @@ experience:
     company: Nvidia Inc.
     company_url: 'https://developer.nvidia.com/drive'
     company_logo: 
-    location: New Jersey
+    location: Holmdel, NJ 
     date_start: '2018-01-10'
     date_end: '2018-08-15'
     description:  |2-
@@ -50,7 +50,7 @@ experience:
     company: Nvidia Inc.
     company_url: 'https://developer.nvidia.com/drive'
     company_logo: 
-    location: Seatle
+    location: Seattle, WA
     date_start: '2017-05-01'
     date_end: '2017-08-30'
     description:  |2-
@@ -58,6 +58,21 @@ experience:
       * Contributed to the Embedded PDK for the DRIVE automotive hardware products, that now serve giants like Tesla and Audi.
       * Re-implemented the Tegra flashing software for the DRIVE computing platforms to meet strict Automotive standards and to gain MISRA compliance.
       * Architected the incremental Tegra flashing functionality, reducing the average OS flash time to half.
+
+  - title: Software Engineer - Special Projects
+    company: Intellijoint Surgical
+    company_url: 'https://www.intellijointsurgical.com/'
+    company_logo: 
+    location: Waterloo, Canada
+    date_start: '2016-05-01'
+    date_end: '2016-08-30'
+    description:  |2-
+      As a core member of the software development team, I worked closely with the R&D department to prototype a new application for their tool tracking system.
+      * Prototyped a cranial navigation Mac OS application using the existing tracking system
+      * Worked with OpenGL based Visualization Toolkit (VTK) for 3D image rendering
+      * Gained understanding of computer vision algorithms used for sphere tracking
+      * Exposed to optimisation algorithms used for shape matching
+
 
 design:
   columns: '1'
