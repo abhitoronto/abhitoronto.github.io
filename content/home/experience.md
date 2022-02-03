@@ -22,15 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Machine Learning Engineer
+    company: Kindred AI
+    company_url: 'https://www.kindred.ai/'
+    company_logo:
+    location: San Francisco, California
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        We are building the world’s first grocery fulfillment robotic system capable of being fully autonomous.
+        
   - title: Graduate Research Student - Robotics and AI
     company: University of Toronto Robotics Institute
     company_url: 'https://robotics.utoronto.ca/'
     company_logo:
     location: Toronto, Canada
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2021-08-30'
     description: |2-
-        I am working as a researcher at STARS lab under the supervision of Dr. Jonathan Kelly. For my current project, I am working on a learning-based algorithm to perceive in-hand object slip using inexpensive [barometric tactile sensors](https://ieeexplore.ieee.org/document/6877681). A [publication](https://arxiv.org/abs/2103.13460) on this topic, submitted to [IROS 2021](https://www.iros2021.org/), is currently under review. During the course of my masters, I have received the [NSERC Canadian Graduate Scholarship](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and the [Vector Scholarship in AI](https://vectorinstitute.ai/scholarship/).
+        I worked as a researcher at STARS lab under the supervision of Dr. Jonathan Kelly. For my project, I created a learning-based algorithm to perceive in-hand object slip using inexpensive [barometric tactile sensors](https://ieeexplore.ieee.org/document/6877681). A [publication](https://arxiv.org/abs/2103.13460) on this topic, submitted to ICRA 2022, is currently under review. During the course of my masters, I have received the [NSERC Canadian Graduate Scholarship](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and the [Vector Scholarship in AI](https://vectorinstitute.ai/scholarship/).
         
   - title: Software Engineer - Autonomous Driving
     company: Nvidia Inc.
