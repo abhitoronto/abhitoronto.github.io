@@ -23,11 +23,11 @@ twitter: ''
 # email: abhinav95grover@gmail.com
 address:
   street: ''
-  city: Toronto
-  region: Ontario
+  city: Palo Alto
+  region: California
 #   postcode: ''
-  country: Canada
-  country_code: CA
+  country: USA
+  country_code: US
 contact_links:
   - icon: envelope
     icon_pack: fas
