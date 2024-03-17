@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MASc in Aerospace Engineering (Robotics)
+  - course: MASc in Robotics and AI (Aerospace Department)
     institution: University of Toronto
     year: 2021
   - course: BASc in Mechatronics Engineering
@@ -51,16 +51,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/abhinavgrovereng/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/abhinav95grover
+- icon: cv
+  icon_pack: ai
+  link: uploads/Abhinav_Grover_resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/Abhinav_Grover_CV.pdf
+#   link: uploads/Abhinav_Grover_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "abhinav95grover@gmail.com"
@@ -76,5 +76,5 @@ I graduated from University of Waterloo with a bachelors in [Mechatronics Engine
 
 Please checkout my [projects]({{<ref "/#projects">}}) and [publications]({{<ref "/#featured">}}) below.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Abhinav_Grover_CV.pdf" "newtab" >}}CV{{< /staticref >}} \ {{< staticref "uploads/Abhinav_Grover_resume.pdf" "newtab" >}}résume{{< /staticref >}}.
+{{< staticref "uploads/Abhinav_Grover_resume.pdf" "newtab" >}}Résume{{< /staticref >}}.
 </div>
